@@ -4,7 +4,7 @@ By Proteek Chandan Roy and Vishnu Naresh Boddeti
 
 ### Introduction
 
-This code archive includes the Python implementation of intrinsic dimensionality estimation for image representation, and the proposed dimensionality reduction method -- DeepMDS. Our work, *ID&DeepMDS*, addressed two basic but fundamental questions in representation learning, i.e., its intrinsic dimensionality and if we can find a mapping between the ambient and intrinsic space while maintaining the discriminative capability of the representation. The proposed *ID&DeepMDS* is able to estimate intrinsic dimensionality for a given image representation, and then transform the ambient space to the intrinsic space based on an unsupervised DNN dimensionality reduction method under the framework of multidimensional scaling.
+This code archive includes the Python implementation of MaxEnt-ARL for mitigating leakage of sensitive information from learned image representations.
 
 ### Citation
 
